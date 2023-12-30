@@ -1,0 +1,16 @@
+# Compiled output
+/build
+/node_modules
+/.env
+/documentation
+/package-lock.json
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+gitpull-setupstore.log
+# OS
+.DS_Store
